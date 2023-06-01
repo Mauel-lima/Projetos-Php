@@ -1,6 +1,6 @@
 # PetShopPhp
-Dentro do meu curso técnico de Desenvoveldor back-end com PHP, como parte do projeto final precisamos fazer um site para um PetShop que utilizasse PHP.
-Esse foi o resultado final, o servidor utilizado para teste foi o wampserver local.
+Projeto final realizado dentro do curso profissionalizante de Desenvoveldor back-end com PHP, onde tive que criar um site, manipular os dados com PHP.
+Esse foi o resultado final, o servidor utilizado para o teste foi o wampserver local.
 <p>O projeto foi pedido pela professora para atender os seguintes requisitos:</p>
 <p>. Dominio básico de HTML e CSS.</p>
 <p>. Criação de formulários.</p>
